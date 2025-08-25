@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Ruhama Teshome
 
-<!--
-**dagii-hub/dagii-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and aspiring web developer. I enjoy building projects, learning new technologies, and solving real-world problems through programming.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+- **Programming Languages:** Python, HTML, CSS, JavaScript, java ,c++  
+- **Web Development:** Frontend & Backend basics  
+- **Tools & Platforms:** GitHub, Arduino, CapCut (video editing)  
+
+---
+
+## 🚀 Projects
+
+- **Smart Farm System**: Monitors and controls farm conditions using Arduino, sensors, and a mobile app. Ranked in top 3 at STEM Power.  
+- **School Website**: Developed a functional website for my school using HTML, CSS, and JavaScript. Selected for sub-city level exhibition.  
+- **Smart Glove (Ongoing)**: Translates finger movements into messages for patients using flex sensors.  
+
+---
+## 😍 interests
+- Am learning and interested in cyber security , blockchain & AI.
+
+## 📫 Contact
+
+- **Email:** ruhamaabeje 29@gmail.com  
+- **GitHub:**(https://github.com/dagii-hub)  
+
+---
